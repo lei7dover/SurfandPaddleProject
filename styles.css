@@ -48,8 +48,18 @@ img.Bloglogo {
   margin-left: 25px;
 }
 
+#content p{
+  font-family:Times;
+  font-size:18px;
+}
 #content p.last{
   padding-bottom:10px;
+}
+
+#headliner{
+padding:20px;
+margin:10px;
+border-left:1px solid lightgray;
 }
 
 .navbar-default{
