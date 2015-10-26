@@ -26,11 +26,25 @@
   padding-right:0px;
 }
 
-#authorinfo{
-  padding: 20px;
+#authordate{
+  padding-bottom:10px;
 }
+#authordate a{
+  padding-left:0px;
+}
+
 #authorinfo h6{
   text-align:left;
+}
+
+#authorinfo img{
+  height:30px;
+  width:60px;
+}
+
+#authorinfo {
+  margin-bottom:10px;
+  padding-bottom:15px;
 }
 
 #therail{
@@ -48,14 +62,29 @@ img.Bloglogo {
   margin-left: 25px;
 }
 
-#content p{
+.centersection p {
   font-family:Times;
   font-size:18px;
 }
-#content p.last{
-  padding-bottom:10px;
+.sunset{
+  padding-top:30px;
+  padding-bottom:15px;
 }
 
+.centersection{
+  padding-right:40px;
+}
+a:active{
+  text-decoration:none;
+}
+a:visited{
+    color:gray;
+    text-decoration:none;
+  }
+
+a:hover{
+  text-decoration:none;
+}
 #headliner{
 padding:20px;
 margin:10px;
@@ -110,10 +139,7 @@ p.navbar-text.navbar-right a{
   padding:0px;
 }
 
-#authorinfo {
-  margin-bottom:10px;
-  padding-bottom:15px;
-}
+
 
 #magnify{
   padding-left: 10px;
